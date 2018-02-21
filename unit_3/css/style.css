@@ -1,6 +1,6 @@
 body {
 	font-family: Helvetica;
-	background: url("https://photos.app.goo.gl/0mq7RoMtCG7fQxPo2");
+	background: url("images/BridalPartywPhone.jpg");
 	background-size: cover;
 }
 
@@ -12,6 +12,7 @@ h1 {
 }
 h2{
 	font-size: 30px;
+	text-align: center;
 }
 p {
 	color: #000;
