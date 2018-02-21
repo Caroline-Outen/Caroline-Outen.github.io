@@ -1,4 +1,14 @@
 body {
 	background: url("images/BridalPartywPhone");
+	font-family: Helvetica;
 }
-h1, p {color: #474746;}
+
+h1 {
+	color: #474746;
+	text-align: Center;
+
+}
+p {
+	color: #000;
+	text-align: Center;
+}
