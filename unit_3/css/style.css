@@ -28,12 +28,14 @@ a {
 	color: #474746;
 	font-size: 14px;
 }
-img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 960px;
-	height: 600px;
-
-
+.column {
+	float: left;
+	width: 70%;
+	content: url(images/BridalPartywPhone.jpg);
+}
+.column2 {
+	float: right;
+	width: 30%;
+	content: <h1>Wedding Party!</h1>
+	<h3 id="slogan">Turn your wedding planning into a party</h3>;
 }
