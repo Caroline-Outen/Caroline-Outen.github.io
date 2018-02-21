@@ -1,5 +1,6 @@
 body {
 	font-family: Helvetica;
+	background-color: rgb(227, 220, 229);
 }
 
 h1 {
@@ -29,4 +30,5 @@ a {
 img {
 	width: 960px;
 	height: 600px;
+
 }
