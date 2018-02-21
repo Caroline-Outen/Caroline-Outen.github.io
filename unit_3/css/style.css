@@ -1,20 +1,26 @@
 body {
 	font-family: Helvetica;
+	background: url("images/BridalPartywPhone.jpg");
+	background-size: cover;
 }
 
 h1 {
 	color: #474746;
 	text-align: Center;
-	font-sze: 36px;
+	font-size: 36px;
 
 }
 h2{
 	font-size: 30px;
 }
-p, ul {
+p {
 	color: #000;
 	text-align: Center;
-	font-size: 18px
+	font-size: 14px
+}
+ul{
+	font-size: 14px;
+
 }
 a {
 	text-decoration: underline;
