@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
 body {
-	font-family: Helvetica;
+	font-family: 'Work Sans', sans-serif;
 	background-color: rgb(227, 220, 229);
 }
 
@@ -31,4 +33,5 @@ a {
 img {
 	display: block;
 	margin: 0 auto 0 auto;
+	width: ;
 }
