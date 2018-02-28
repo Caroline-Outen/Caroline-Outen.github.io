@@ -8,14 +8,16 @@ h1 {
 	font-family: 'Pacifico', cursive;
 	color: #474746;
 	text-align: Center;
-	font-size: 36px;
+	font-size: 2em;
+	font-weight: lighter;
 
 }
 h3{
 	font-family: 'Pacifico', cursive;
-	font-size: 30px;
+	font-size: 1.5em;
 	text-align: center;
 	color: #474746;
+	font-weight: lighter;
 }
 p {
 	font-family: 'Open Sans', sans-serif;
