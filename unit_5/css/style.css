@@ -43,3 +43,18 @@ img {
 	margin: 0 auto 0 auto;
 	width: ;
 }
+header {
+	background-color: #FFED74;
+}
+nav {
+	background-color: #E8C66A;
+}
+article {
+	background-color: #E89C6C;
+}
+footer {
+	background-color: #FF957E;
+}
+section {
+	background-color: #FFE2B8;
+}
