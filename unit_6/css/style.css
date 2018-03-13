@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Pacifico');
+
+body {
+	background-color: rgb(227, 220, 229);
+}
+
+#two-column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: #474746;
+	text-align: Center;
+	font-size: 3em;
+	font-weight: lighter;
+
+}
+h3{
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;
+	text-align: center;
+	color: #474746;
+	font-weight: lighter;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #474746;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+ul{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.5em;
+
+}
+a {
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: underline;
+	text-align: center;
+	color: #474746;
+	font-size: 18px;
+}
+img {
+	display: block;
+	margin: 0 auto 0 auto;
+	width: ;
+}
+header {
+	background-color: #FFED74;
+}
+nav {
+	background-color: #E8C66A;
+}
+article {
+	background-color: #E89C6C;
+}
+footer {
+	background-color: #FF957E;
+}
+section {
+	background-color: #FFE2B8;
+}
