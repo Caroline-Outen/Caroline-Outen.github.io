@@ -15,7 +15,7 @@ body {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 70%;
 }
 
 #right {
@@ -23,7 +23,7 @@ body {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 30%;
 }
 
 h1 {
@@ -55,10 +55,13 @@ ul{
 }
 a {
 	font-family: 'Open Sans', sans-serif;
-	text-decoration: underline;
+	text-decoration: none;
 	text-align: center;
 	color: #474746;
 	font-size: 18px;
+	display: block;
+	float: right;
+	padding: 20px;
 }
 
 
