@@ -15,19 +15,16 @@ img {
 }
 
 #left {
-	background-color: #E582A2;
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 60%;
 }
 
 #right {
-	background-color: #E55B88;
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 30%;
+	width: 32%;
+	text-align: center;
 }
 
 h1 {
@@ -45,6 +42,14 @@ h3{
 	color: #474746;
 	font-weight: lighter;
 }
+
+nav {
+	background-color: rgb(255,228,225);
+}
+
+a:hover {
+	background-color: rgb(227, 220, 229);
+}
 p {
 	font-family: 'Open Sans', sans-serif;
 	color: #474746;
@@ -57,15 +62,14 @@ ul{
 	line-height: 1.5em;
 
 }
-a {
+nav a {
 	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
-	text-align: center;
 	color: #474746;
-	font-size: 18px;
+	font-size: 20px;
 	display: block;
-	float: left;
-	padding: 20px;
+	float: right;
+	padding: 30px;
 }
 
 .clearfix:after {
