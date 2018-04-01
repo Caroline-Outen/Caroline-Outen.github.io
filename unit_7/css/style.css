@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Pacifico');
+
+body {
+	background-color: rgb(227, 220, 229);
+}
+
+img {
+	width: 100%;
+}
+
+#two-column {
+	background-color: rgb(227, 220, 229);
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	padding: 20px;
+	float: left;
+	width: 60%;
+}
+
+#right {
+	padding: 20px;
+	float: right;
+	width: 32%;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: #474746;
+	text-align: Center;
+	font-size: 3em;
+	font-weight: lighter;
+
+}
+h3{
+	font-family: 'Pacifico', cursive;
+	font-size: 2em;
+	text-align: center;
+	color: #474746;
+	font-weight: lighter;
+}
+
+nav {
+	background-color: rgb(255,228,225);
+}
+
+a:hover {
+	background-color: rgb(227, 220, 229);
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #474746;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+ul{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.5em;
+
+}
+nav a {
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	color: #474746;
+	font-size: 20px;
+	display: block;
+	float: right;
+	padding: 30px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
