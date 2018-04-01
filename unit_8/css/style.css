@@ -89,3 +89,8 @@ nav a {
   nav a {
     margin: 0 1.6em .75em 0;
   }
+
+  #right {
+  	float:none;
+  }
+}
