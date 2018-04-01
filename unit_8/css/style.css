@@ -94,4 +94,8 @@ nav a {
   	float:none;
   	display: inline;
   }
+  #left {
+  	float: none;
+  	display: inline;
+  }
 }
